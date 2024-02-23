@@ -10,7 +10,7 @@ package h.ejercicio;
  */
 public class Ejercicio {
     public String getMessage() {
-        return "hola";
+        return "holaa";
     }
     public static void main(String[] args) {
         System.out.println("Hello World!");

@@ -20,7 +20,7 @@ public class EjercicioTest {
     @Test
     public void cadena(){
         Ejercicio ins = new Ejercicio();
-        String cadena = "hola";
+        String cadena = "holaa";
         String resul = ins.getMessage();
         assertEquals(cadena,resul);
     }
